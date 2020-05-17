@@ -1,6 +1,7 @@
 # Ciaran's page
 
-Github personal webpage for Ciaran McGeady. Here is the [link](http://CiaranAnthony.github.io/) for the webpage.
-Follow instruction [here](https://jekyllrb.com/) to run Jekyll.
+Personal webpage for Ciaran McGeady. Access it [here](http://CiaranAnthony.github.io/).
 
-To run jekyll server locally, use `jekyll serve`.
+To run locally follow the instruction's [here](https://jekyllrb.com/).
+
+Then, to run use `jekyll serve`.
