@@ -1,11 +1,11 @@
 # Basic
 name:               "Ciarán McGeady"
-title:              "personal page"
-description:        "welcome to my personal webpage"
+title:              "The personal webpage of Ciaran McGeady "
+description:        "Welcome to my webpage."
 
 
 # URL
-url:                http://titipata.github.io
+url:                https://ciarananthony.github.io/about/
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
