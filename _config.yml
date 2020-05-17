@@ -1,0 +1,42 @@
+# Basic
+name:               "Ciarán McGeady"
+title:              "personal page"
+description:        "welcome to my personal webpage"
+
+
+# URL
+url:                http://titipata.github.io
+baseurl:
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "about"
+    href:           "/about"
+  - name:           "blog"
+    href:           "/blog"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
