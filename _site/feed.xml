@@ -5,5 +5,33 @@
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
+			<item>
+				<title>Three Minute Thesis</title>
+        <description>&lt;p&gt;My presentation …&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qy2NrtUHPuA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+				<pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/2020/02/06/3mt.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2020/02/06/3mt.html</guid>
+			</item>
+		
+			<item>
+				<title>Participants wanted</title>
+        <description>&lt;p&gt;Currently recruiting stroke patients with persistent arm weakness for an online BCI study: &lt;a href=&quot;/images/blog/strokeStudy/flyer.pdf&quot;&gt;flyer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;participants-wanted&quot;&gt;Participants Wanted&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Share your &lt;a href=&quot;http://klab.smpp.northwestern.edu/wiki/index.php5/Ideas&quot;&gt;ideas&lt;/a&gt; on our discussion page.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://klab.smpp.northwestern.edu/wiki/index.php5/Share_models_and_data&quot;&gt;Share models and data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;email us at &lt;code class=&quot;highlighter-rouge&quot;&gt;reachingdatabase@gmail.com&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/2020/02/01/stroke-study.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2020/02/01/stroke-study.html</guid>
+			</item>
+		
 	</channel>
 </rss>
