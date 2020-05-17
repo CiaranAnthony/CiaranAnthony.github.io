@@ -9,7 +9,9 @@ permalink: /about/
 </center></figure>
 
 
-Hi, I'm Ciaran, a PhD student in the Department of Biomedical Engineering at the University of Glasgow, supervised by [Aleksandra Vuckovic](https://www.gla.ac.uk/schools/engineering/staff/aleksandravuckovic/). I graduated from the University of Glasgow in 2018 with an MEng degree in Biomedical Engineering. I wrote my Master's thesis based on research conducted at the Technical University of Denmark.
+I'm Ciaran, a PhD student in the Department of Biomedical Engineering at the University of Glasgow, supervised by [Aleksandra Vuckovic](https://www.gla.ac.uk/schools/engineering/staff/aleksandravuckovic/). I graduated from the University of Glasgow in 2018 with an MEng degree in Biomedical Engineering. I wrote my Master's thesis based on research conducted at the Technical University of Denmark.
+
+My research is focussed on brain-computer interfaces, or BCIs, a type of communication technology that allows people to interact with computers without moving their body. 
 
 You can find out more info about me in my [CV](/images/pdf/Ciaran_CV.pdf)
 
