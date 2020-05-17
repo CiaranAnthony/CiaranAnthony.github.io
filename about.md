@@ -13,7 +13,9 @@ I'm a PhD student in the Department of Biomedical Engineering at the University 
 
 You can find out more info about me in my [CV](/images/pdf/Ciaran_CV.pdf)
 
-My research explores new methods for interacting with brain-computer interfaces with motor imagery. 
+My research explores new methods for interacting with brain-computer interfaces (BCI) with motor imagery. 
+
+Currently recruiting stroke patients with persistent arm weakness for an online BCI study: [flyer](/images/blog/strokeStudy/flyer.pdf).
 
 I will soon collaborate with [Monzurul Alam](https://www.polyu.edu.hk/bme/people/academic-staff/dr-monzurul-alam/) at the Hong Kong Polytechnic Univeristiy on a clinical study exploring the potential of BCI motor priming on trans-spinal electical stimulation therapy in spinal-cord injury patients.
 
