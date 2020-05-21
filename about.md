@@ -19,7 +19,7 @@ As of February 2020, I'm recruiting individuals with persistent arm weakness (e.
 
 I will soon collaborate with [Monzurul Alam](https://www.polyu.edu.hk/bme/people/academic-staff/dr-monzurul-alam/) at the Hong Kong Polytechnic Univeristiy on a clinical study exploring the potential of BCI motor priming for transcutaneous electical stimulation therapy in spinal-cord injury patients.
 
-If you're interested in collaborating on a project, discussing research, or would like access to my bimanual motor imagery dataset, do get in [touch](c.mcgeady.1@research.gla.ac.uk).
+If you're interested in collaborating on a project, discussing research, or would like access to my bimanual motor imagery dataset, do get in [touch](mailto:c.mcgeady.1@research.gla.ac.uk).
 
 Here is a list of the software that I generally use 
 
