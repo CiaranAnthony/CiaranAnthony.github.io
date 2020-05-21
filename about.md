@@ -39,7 +39,7 @@ And hardware
   <li><i>2018-Present</i> Ph.D. Student, Biomedical Engineering, University of Glasgow</li>
   <li><i>2013-2018</i> MEng, Biomedical Engineering, University of Glasgow</li>
   <li><i>2017</i> Undergraduate Researcher, Technical University of Denmark</li>
-  <li><i>2012-2013</i> Mechanical Engineering, Edinburgh Napier University/li>
+  <li><i>2012-2013</i> Mechanical Engineering, Edinburgh Napier University</li>
   <li><i>2006-2012</i> St Ninian's High School, Giffnock, Glasgow</li>
 </ul>
 
