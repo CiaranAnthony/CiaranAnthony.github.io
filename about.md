@@ -13,7 +13,7 @@ Hi, I'm Ciaran, a PhD student in the Department of Biomedical Engineering at the
 
 You can find out more about my background in my [CV](/images/pdf/Ciaran_CV.pdf).
 
-My research is mostly focussed on brain-computer interfaces, or BCIs, a type of communication technology that allows people to interact with computers without moving their body. This can be useful in a medical context as patients with neurological impairments may use a BCI to better interact their environment, or even recover lost movements by engaging in BCI training. 
+My research is mostly focussed on brain-computer interfaces, or BCIs, a type of communication technology that allows people to interact with computers without moving their body. This can be useful in a medical context as neurological impaired patients can use a BCI to better control their environment, or even recover lost movements with BCI rehabilitation therapy. 
 
 As of February 2020, I'm recruiting individuals with persistent arm weakness (e.g. stroke patients) for a BCI [study](_posts/2020-02-01-stroke-study.md) investigating bimanual motor imagery: [flyer](/images/blog/strokeStudy/flyer.pdf).
 
