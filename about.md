@@ -9,7 +9,7 @@ permalink: /about/
 </center></figure>
 
 
-Hi, I'm Ciaran, a PhD student in the Department of Biomedical Engineering at the University of Glasgow, supervised by [Aleksandra Vuckovic](https://www.gla.ac.uk/schools/engineering/staff/aleksandravuckovic/). I graduated from the University of Glasgow in 2018 with an MEng degree in Biomedical Engineering.
+Hi, I'm Ciaran, a PhD student at the [Centre for Rehabilitation Engineering](https://twitter.com/UofG_CRE) at the University of Glasgow, supervised by [Aleksandra Vuckovic](https://www.gla.ac.uk/schools/engineering/staff/aleksandravuckovic/). I graduated from the University of Glasgow in 2018 with an MEng degree in Biomedical Engineering.
 
 You can find out more about my background in my [CV](/images/pdf/Ciaran_CV.pdf).
 
