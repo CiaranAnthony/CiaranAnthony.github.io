@@ -9,9 +9,7 @@ permalink: /about/
 </center></figure>
 
 
-I'm Ciaran, a PhD student at the [Centre for Rehabilitation Engineering](https://twitter.com/UofG_CRE) at the University of Glasgow, supervised by [Aleksandra Vuckovic](https://www.gla.ac.uk/schools/engineering/staff/aleksandravuckovic/). I graduated from the University of Glasgow in 2018 with an MEng degree in Biomedical Engineering.
-
-You can find out more about my background in my [CV](/images/pdf/Ciaran_CV.pdf).
+I'm Ciaran, a PhD student at the [Centre for Rehabilitation Engineering](https://twitter.com/UofG_CRE) at the University of Glasgow, supervised by [Aleksandra Vuckovic](https://www.gla.ac.uk/schools/engineering/staff/aleksandravuckovic/). I graduated from the University of Glasgow in 2018 with an MEng degree in Biomedical Engineering. You can find out more about my background in my [CV](/images/pdf/Ciaran_CV.pdf).
 
 My research is mostly focussed on brain-computer interfaces, or BCIs, a type of communication system that allows users to interact with computers and devices without moving. BCIs can be used by paralysed people to better control their environment, or even to improve their condition through BCI rehabilitation therapy. 
 
