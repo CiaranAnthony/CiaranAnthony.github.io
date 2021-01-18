@@ -13,7 +13,7 @@ I'm Ciaran, a PhD student at the [Centre for Rehabilitation Engineering](https:/
 
 My research is mostly focused on brain-computer interfaces, or BCIs, a type of communication system that allows people to interact with computers and devices without moving. I'm interested in applying BCIs in a medical context. For example, BCIs can be used by paralysed people to better control their environment, or even to improve their condition through BCI rehabilitation therapy. 
 
-Currently, I am a visiting PhD student at the Polytechnic University of Hong Kong.
+I am currently a visiting PhD student at the Polytechnic University of Hong Kong.
 
 If you're interested discussing research, collaborating, or would like access to my bimanual motor imagery dataset, do get in [touch](mailto:c.mcgeady.1@research.gla.ac.uk).
 
